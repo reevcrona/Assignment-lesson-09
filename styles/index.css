@@ -4,11 +4,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
 }
 
 .image-container{
     width: 100%;
-    max-width: 1300px;
+    max-width: 1500px;
     flex-wrap: wrap;
    flex-direction: column;
     justify-content: center;
@@ -16,6 +17,7 @@ body{
 }
 .image-container img {
     max-width: 100%;
+    max-width: 200px;
     height: auto; 
     flex-shrink: 0; 
 }
