@@ -1,0 +1,8 @@
+<svg width="300" height="300" viewbox = "0 0 200 200"  xmlns="http://www.w3.org/2000/svg">
+    <polygon  points ="5 10 295 10 150 270"  stroke ="#fff" stroke-width="10" stroke-linecap="round"
+    stroke-linejoin ="round"
+    />
+    <line x1="5" y1 ="10" x2="150" y2="100"  stroke ="#fff" stroke-width ="8"/>
+    <line x1="295" y1 ="10" x2="150" y2="100"  stroke ="#fff" stroke-width ="8"/>
+    <line x1="150" y1 ="100" x2="150" y2="270"  stroke ="#fff" stroke-width ="8"/>
+</svg>
