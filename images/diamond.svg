@@ -5,4 +5,12 @@
   <polygon points="50,130 100,60 200,60 250,130" stroke="#048BA8" stroke-width="7" fill="none"
      stroke-linejoin ="round" stroke-linecap="round"
 />
+<polyline  points ="100,60  120,130 150,60 180,130 200,60"  stroke="#048BA8" stroke-width="7" stroke-linejoin ="round" 
+           stroke-linecap="round"
+
+/>
+<polyline  points="120,130 150,280 180,130"  stroke="#048BA8" stroke-width="7" stroke-linejoin ="round" 
+           stroke-linecap="round" 
+
+/>
 </svg>
